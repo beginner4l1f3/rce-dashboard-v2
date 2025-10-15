@@ -8,6 +8,6 @@ __pycache__/
 # macOS
 .DS_Store
 
-# local backups / notebooks (if any)
+# local backups / temp
 Backup/
 .ipynb_checkpoints/
